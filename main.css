@@ -1,0 +1,21 @@
+h1,h2,form {
+    text-align: center;
+}
+textarea {
+    resize: none;
+    width: 160px;
+    columns: 40px;
+}
+.bold {
+    border-color: black;
+}
+.button {
+    background-color: dimgray;
+    color:white;
+    padding:10px 15px;
+    border:none;   
+}
+.button:hover{
+    background-color: red;
+    color:brown;
+}
